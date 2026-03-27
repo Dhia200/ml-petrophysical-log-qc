@@ -13,10 +13,6 @@ This folder contains all PNG outputs from the automated pipeline.
 5. **05_gmm_crossplot.png** - Post 5: GMM clustering visualization
 6. **06_facies_specific_final.png** - Post 6: Complete facies-specific reconstruction
 
-### Adding Your Images
-
-Place your 6 PNG files here with the exact names listed above, or update the filenames in README.md to match your actual files.
-
 ### Image Specifications
 
 - **Format:** PNG
